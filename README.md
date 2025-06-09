@@ -21,8 +21,10 @@ Aspiring Full-Stack Web Developer 🚀 | Passionate about building clean and int
 HTML | CSS | JavaScript | Git | VS Code
 
 ### 📈 GitHub Stats
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcodes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshcodes&layout=compact&theme=tokyonight)
+![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josh-laboratory&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josh-laboratory&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josh-laboratory&theme=tokyonight)
+
 
 ---
 
