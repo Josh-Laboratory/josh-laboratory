@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there! 👋 I'm Josh
 
-<!--
-**Josh-Laboratory/josh-laboratory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full-Stack Web Developer 🚀 | Passionate about building clean and interactive web experiences.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- Building my developer portfolio
+- Learning JavaScript & DOM manipulation
+- Improving my responsive design skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- HTML5 / CSS3 / JavaScript
+- Git & GitHub
+- Frontend Frameworks (soon!)
+
+### 📌 Projects
+- [My Portfolio Website](https://github.com/joshcodes/portfolio) (in progress)
+- [Simple Landing Page](https://github.com/joshcodes/landing-page)
+- [To-Do List App](https://github.com/joshcodes/todo-app)
+
+### 🧰 Tech Stack
+HTML | CSS | JavaScript | Git | VS Code
+
+### 📈 GitHub Stats
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshcodes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshcodes&layout=compact&theme=tokyonight)
+
+---
+
+> “Stay hungry, stay foolish.” – Steve Jobs
+
